@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# Environment variables
+.env
+.envrc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
